@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except these:
+!requirements.txt
+!README.md
+!src/
+!src/**/*
+!.gitignore
