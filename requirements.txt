@@ -1,0 +1,11 @@
+# Console colored text
+colorama
+
+# Audio utils
+librosa
+
+# Tensorflow libs
+tensorflow == 2.19.0
+keras == 3.9.1
+numpy == 1.26.4
+tf_keras == 2.19.0
